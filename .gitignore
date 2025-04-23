@@ -1,0 +1,11 @@
+*.launch
+*.log
+*.elf
+*.hex
+*.bin
+*.i
+*.d
+*.o
+*.lst
+*.map
+.build
